@@ -1,0 +1,1 @@
+# SOA-AWS-IAM-User-with-Amazon-S3-Full-Access
